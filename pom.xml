@@ -19,7 +19,7 @@
 	</licenses>
 	<developers>
 		<developer/>
-	</developers>git 
+	</developers>
 	<scm>
 		<connection/>
 		<developerConnection/>
@@ -48,6 +48,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>4.1</version>
 		</dependency>
 	</dependencies>
 
